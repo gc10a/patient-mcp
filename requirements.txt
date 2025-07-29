@@ -1,0 +1,7 @@
+mcp
+fastmcp
+uvicorn[standard]
+pydantic
+ngrok
+httpx
+faker
